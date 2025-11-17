@@ -14,3 +14,14 @@ body {
     border: 3px solid rgb(223, 164, 27);
 
 }
+.container{
+    max-width: 600px;
+    padding: 20px;
+    text-align: center;
+}
+
+.perfil h1{
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+
+}
